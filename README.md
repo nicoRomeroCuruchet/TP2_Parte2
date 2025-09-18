@@ -9,7 +9,7 @@ Borra todos los archivos compilados en el proyecto.
 
     make main
     
-Compila main.c, este archivo se los proveemos para que puedan hacer su propio codigo que prueve sus funciones.
+Compila main.c, este archivo se los proveemos para que puedan hacer su propio código que prueve sus funciones.
 
 
     make tester
